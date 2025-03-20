@@ -1,0 +1,17 @@
+ru:
+  start_greeting: "Приветствую! Это бот для общения с моделями ChatGPT в Telegram. Просто напишите свой вопрос, и я помогу вам!"
+
+en:
+  start_greeting: "Hello! This is a bot for chatting with ChatGPT models in Telegram. Just write your question, and I will help you!"
+
+es:
+  start_greeting: "¡Hola! Este es un bot para chatear con modelos de ChatGPT en Telegram. Simplemente escribe tu pregunta, y yo te ayudaré!"
+
+fr:
+  start_greeting: "Bonjour! Ce bot est pour discuter avec les modèles de ChatGPT sur Telegram. Écrivez votre question, et je vous aiderai!"
+  
+de:
+  start_greeting: "Hallo! Dieser Bot ist für das Chatten mit ChatGPT-Modellen in Telegram. Schreiben Sie Ihre Frage, und ich werde Ihnen helfen!"
+
+uk:
+  start_greeting: "Привіт! Це бот для спілкування з моделями ChatGPT у Telegram. Просто напишіть свій запит, і я допоможу вам!"
