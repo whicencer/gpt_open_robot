@@ -1,6 +1,5 @@
 import pymongo
 from datetime import datetime
-from config import config
 
 
 class Database:
